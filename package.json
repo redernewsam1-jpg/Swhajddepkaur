@@ -1,0 +1,15 @@
+{
+  "name": "ultra-m3u8-api",
+  "version": "1.0.0",
+  "description": "Ultra Pro M3U8 API + Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
